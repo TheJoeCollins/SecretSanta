@@ -1,0 +1,3 @@
+rootProject.name = 'secretsanta'
+
+include ':app'
